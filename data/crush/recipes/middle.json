@@ -36,7 +36,7 @@
     },
     {
       "item": "minecraft:diamond",
-      "chance": 0.0293
+      "chance": 0.00293
     },
     {
       "item": "mythicmetals:raw_mythril",
@@ -71,13 +71,17 @@
       "chance": 0.00117
     },
     {
-      "item": "minecraft:redstone",
+      "item": "spelunkery:rough_cinnabar",
       "chance": 0.00833
     },
     {
       "item": "minecraft:lapis_lazuli",
       "chance": 0.00513
-    }
+    },
+	{
+	  "item": "minecraft:gravel",
+	  "chance": 0.50000
+	}
   ],
   "processingTime": 150
 }
