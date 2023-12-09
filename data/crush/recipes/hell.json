@@ -1,0 +1,49 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ancient_debris",
+      "chance": 0.00154
+    },
+    {
+      "item": "mythicmetals:raw_banglum",
+      "chance": 0.00355
+    },
+    {
+      "item": "mythicmetals:raw_stormyx",
+      "chance": 0.00355
+    },
+    {
+      "item": "mythicmetals:raw_palladium",
+      "chance": 0.00355
+    },
+    {
+      "item": "malum:blazing_quartz",
+      "chance": 0.02453
+    },
+    {
+      "item": "minecraft:quartz",
+      "chance": 0.02453
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "count": 4,
+      "chance": 0.01095
+    },
+    {
+      "item": "create:cinder_flour"
+    },
+    {
+      "item": "create:cinder_flour",
+      "chance": 0.50000
+    }
+  ],
+  "processingTime": 150
+}
+
+

@@ -1,0 +1,52 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:emerald",
+      "chance": 0.01648
+    },
+    {
+      "item": "mythicmetals:raw_prometheum",
+      "chance": 0.00146
+    },
+    {
+      "item": "minecraft:raw_iron",
+      "chance": 0.03174
+    },
+    {
+      "item": "mythicmetals:raw_carmot",
+      "chance": 0.00130
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 0.00513
+    },
+    {
+      "item": "minecraft:raw_gold",
+      "chance": 0.00439
+    },
+    {
+      "item": "mythicmetals:morkite",
+      "chance": 0.00439
+    },
+    {
+      "item": "minecraft:raw_copper",
+      "chance": 0.08438
+    },
+    {
+      "item": "minecraft:diamond",
+      "chance": 0.00837
+    },
+    {
+      "item": "minecraft:redstone",
+      "chance": 0.01758
+    }
+  ],
+  "processingTime": 150
+}
+
